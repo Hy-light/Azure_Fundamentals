@@ -1,8 +1,3 @@
-Here’s a comprehensive yet concise **README in Markdown format** for **Module 2: Azure Basics**, structured for use as both a course description and as source content for your PowerPoint slide deck.
-
----
-
-
 # 🌐 Azure Fundamentals – Module 2: Azure Basics
 
 🎯 **Objective:**  
@@ -57,14 +52,14 @@ Everything you create in Azure is organized within a **logical structure**. Thin
 
 Example:
 
-
-Tenant: Contoso Ltd
-└── Subscription: Contoso Dev/Test
-└── Resource Group: WebAppRG
-├── App Service: HelloWorldApp
-├── Storage Account: contosostorage
-└── Database: contosodb
-
+```
+    Tenant: Contoso Ltd
+    └── Subscription: Contoso Dev/Test
+    └── Resource Group: WebAppRG
+    ├── App Service: HelloWorldApp
+    ├── Storage Account: contosostorage
+    └── Database: contosodb
+```
 
 > 📌 Grouping resources helps you manage, monitor, and delete things more efficiently.
 
@@ -116,15 +111,13 @@ Let’s see what you remember! (Sample questions below)
 
 ## ✅ Summary
 
-By the end of this module, you should be able to:
+At this point you should be able to:
 - Navigate the Azure Portal confidently
 - Understand core cloud location concepts (Regions, Geos)
 - Describe Azure’s resource hierarchy
 - Deploy your first no-code web app in the cloud
 
 🎉 You’ve taken your first real step inside the Azure universe!
-
-
 
 ---
 
