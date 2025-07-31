@@ -2,7 +2,7 @@ Here’s a comprehensive yet concise **README in Markdown format** for **Module 
 
 ---
 
-```markdown
+
 # 🌐 Azure Fundamentals – Module 2: Azure Basics
 
 🎯 **Objective:**  
@@ -56,7 +56,7 @@ Everything you create in Azure is organized within a **logical structure**. Thin
 4. **Resources** (the actual services: VMs, storage, apps, etc.)
 
 Example:
-```
+
 
 Tenant: Contoso Ltd
 └── Subscription: Contoso Dev/Test
@@ -65,7 +65,6 @@ Tenant: Contoso Ltd
 ├── Storage Account: contosostorage
 └── Database: contosodb
 
-```
 
 > 📌 Grouping resources helps you manage, monitor, and delete things more efficiently.
 
@@ -125,11 +124,10 @@ By the end of this module, you should be able to:
 
 🎉 You’ve taken your first real step inside the Azure universe!
 
----
-```
+
 
 ---
 
 ### 👇 Next Step
 
-Would you like me to now turn this into a PowerPoint presentation deck as well? I can include visuals, icons, and structured slide flow to match the content.
+We shall dive into Module three
